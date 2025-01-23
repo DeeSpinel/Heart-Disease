@@ -27,3 +27,7 @@ time.
 ■ Accurately identify high-risk borrowers to mitigate losses by
 implementing strategies like adjusted interest rates or requiring
 additional collateral.
+
+<img width="680" alt="image" src="https://github.com/user-attachments/assets/5fbedcd1-0170-46e1-a1c2-e6cfa7dfdd62" />
+
+
